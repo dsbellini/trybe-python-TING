@@ -12,7 +12,7 @@ def test_basic_priority_queueing():
 
     # Verifiquei se a fila tem 2 elementos
     assert len(queue) == 2
-    # Verifiquei se o primeiro elemento [0] é o de menor prioridade
+    # Verifiquei se o primeiro elemento [0] é o de maior prioridade
     assert queue.search(0) == {"qtd_linhas": 2}
     assert queue.search(1) == {"qtd_linhas": 8}
 
