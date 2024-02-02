@@ -90,7 +90,7 @@ Para isso, o programa desenvolvido tem dois módulos:
 
 <details>
   <summary><strong>🧱 Estrutura do Projeto</strong></summary><br />
-  
+
   ```
   Legenda:
   🔸Arquivos que não foram alterados (desenvolvido pela Trybe)
@@ -110,6 +110,7 @@ Para isso, o programa desenvolvido tem dois módulos:
   │   └──🔸novo_paradigma_globalizado.txt
   ├──tests
   │   ├──🔸__init__.py
+  │   ├──🔹test_prioriy_queue.py
   │   ├──🔸test_file_management.py
   │   ├──🔸test_file_process.py
   │   ├──🔸test_queue.py
