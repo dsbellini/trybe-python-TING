@@ -92,7 +92,8 @@ Para isso, o programa desenvolvido tem dois módulos:
   <summary><strong>🧱 Estrutura do Projeto</strong></summary><br />
   ```
   Legenda:
-  🔹Arquivos que foram alterados para realizar os requisitos do projeto.
+  🔸Arquivos que não foram alterados (desenvolvido pela Trybe)
+  🔹Arquivos que foram alterados para realizar os requisitos.
   .
   ├──🔸dev-requirements.txt
   ├──🔸pyproject.toml
@@ -120,5 +121,6 @@ Para isso, o programa desenvolvido tem dois módulos:
   ├──ting_word_searches
   │   ├──🔸__init__.py
   │   └──🔹word_search.py
+  └──🔸trybe.yml
   ```
 </details>
