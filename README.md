@@ -88,7 +88,6 @@ Para isso, o programa desenvolvido tem dois módulos:
 
 </details>
 
-<details>
   <summary><strong>🧱 Estrutura do Projeto</strong></summary><br />
   ```
   Legenda:
@@ -123,4 +122,3 @@ Para isso, o programa desenvolvido tem dois módulos:
   │   └──🔹word_search.py
   └──🔸trybe.yml
   ```
-</details>
