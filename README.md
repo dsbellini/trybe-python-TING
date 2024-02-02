@@ -90,6 +90,7 @@ Para isso, o programa desenvolvido tem dois módulos:
 
 <details>
   <summary><strong>🧱 Estrutura do Projeto</strong></summary><br />
+  
   ```
   Legenda:
   🔸Arquivos que não foram alterados (desenvolvido pela Trybe)
@@ -124,35 +125,3 @@ Para isso, o programa desenvolvido tem dois módulos:
   └──🔸trybe.yml
   ```
 </details>
-
-Legenda:
-🔸Arquivos que não podem ser alterados
-🔹Arquivos a serem alterados para realizar os requisitos.
-.
-├──🔸dev-requirements.txt
-├──🔸pyproject.toml
-├──🔸README.md
-├──🔸requirements.txt
-├──🔸setup.cfg
-├──🔸setup.py
-├──statics
-│   ├──🔸arquivo_teste.csv
-│   ├──🔸arquivo_teste.txt
-│   ├──🔸nome_pedro.txt
-│   ├──🔸novo_paradigma_globalizado-min.txt
-│   └──🔸novo_paradigma_globalizado.txt
-├──tests
-│   ├──🔸__init__.py
-│   ├──🔸test_file_management.py
-│   ├──🔸test_file_process.py
-│   ├──🔸test_queue.py
-│   └──🔸test_word_search.py
-├──ting_file_management
-│   ├──🔹file_management.py
-│   ├──🔹file_process.py
-│   ├──🔸__init__.py
-│   └──🔹queue.py
-├──ting_word_searches
-│   ├──🔸__init__.py
-│   └──🔹word_search.py
-└──🔸trybe.yml
